@@ -1,0 +1,3368 @@
+[
+  {
+    "party": "Demokrat",
+    "area": "Aceh 1",
+    "number": 1,
+    "name": "T Riefky Harsya"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Aceh 1",
+    "number": 2,
+    "name": "Fadlullah"
+  },
+  {
+    "party": "Golkar",
+    "area": "Aceh 1",
+    "number": 3,
+    "name": "Salim Fakhry"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Aceh 1",
+    "number": 4,
+    "name": "Bachtiar Aly"
+  },
+  {
+    "party": "PAN",
+    "area": "Aceh 1",
+    "number": 5,
+    "name": "Muslim Ayub"
+  },
+  {
+    "party": "PKB",
+    "area": "Aceh 1",
+    "number": 6,
+    "name": "Irmawan"
+  },
+  {
+    "party": "PKS",
+    "area": "Aceh 1",
+    "number": 7,
+    "name": "Ghufron Zainal"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Aceh 2",
+    "number": 8,
+    "name": "Muslim"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Aceh 2",
+    "number": 9,
+    "name": "TA Khalid"
+  },
+  {
+    "party": "Golkar",
+    "area": "Aceh 2",
+    "number": 10,
+    "name": "Ilham Pangestu"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Aceh 2",
+    "number": 11,
+    "name": "Anwar Ramli"
+  },
+  {
+    "party": "PAN",
+    "area": "Aceh 2",
+    "number": 12,
+    "name": "Nazaruddin"
+  },
+  {
+    "party": "PKB",
+    "area": "Aceh 2",
+    "number": 13,
+    "name": "Ruslan M Daud"
+  },
+  {
+    "party": "PKS",
+    "area": "Aceh 2",
+    "number": 14,
+    "name": "M Nasir Djamil"
+  },
+  {
+    "party": "Golkar",
+    "area": "Babel",
+    "number": 15,
+    "name": "Bambang Patijaya"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Babel",
+    "number": 16,
+    "name": "Zuristyo Firmadata"
+  },
+  {
+    "party": "PDIP",
+    "area": "Babel",
+    "number": 17,
+    "name": "Rudianto Tjen"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Bali",
+    "number": 18,
+    "name": "Putu Supadma Rudana"
+  },
+  {
+    "party": "Golkar",
+    "area": "Bali",
+    "number": 19,
+    "name": "AA Bagus Adhi M.P."
+  },
+  {
+    "party": "Golkar",
+    "area": "Bali",
+    "number": 20,
+    "name": "Gede S. Linggih"
+  },
+  {
+    "party": "PDIP",
+    "area": "Bali",
+    "number": 21,
+    "name": "I Ketut K. Adnyana"
+  },
+  {
+    "party": "PDIP",
+    "area": "Bali",
+    "number": 22,
+    "name": "I Made Urip"
+  },
+  {
+    "party": "PDIP",
+    "area": "Bali",
+    "number": 23,
+    "name": "I Nyoman Parta"
+  },
+  {
+    "party": "PDIP",
+    "area": "Bali",
+    "number": 24,
+    "name": "I Wayan Sudirta"
+  },
+  {
+    "party": "PDIP",
+    "area": "Bali",
+    "number": 25,
+    "name": "IGN Alit K Kelakan"
+  },
+  {
+    "party": "PDIP",
+    "area": "Bali",
+    "number": 26,
+    "name": "Ray Wirajaya"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Banten 1",
+    "number": 27,
+    "name": "Ali Zamroni"
+  },
+  {
+    "party": "Golkar",
+    "area": "Banten 1",
+    "number": 28,
+    "name": "Ade R Chaerunnisa"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Banten 1",
+    "number": 29,
+    "name": "Rizki A Natakusumah"
+  },
+  {
+    "party": "PDIP",
+    "area": "Banten 1",
+    "number": 30,
+    "name": "Hasbi A Jayabaya"
+  },
+  {
+    "party": "PKS",
+    "area": "Banten 1",
+    "number": 31,
+    "name": "Dimyati Natakusumah"
+  },
+  {
+    "party": "PPP",
+    "area": "Banten 1",
+    "number": 32,
+    "name": "Iip Miftahul Choiri"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Banten 2",
+    "number": 33,
+    "name": "Nuraeni"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Banten 2",
+    "number": 34,
+    "name": "Desmon J Mahesa"
+  },
+  {
+    "party": "Golkar",
+    "area": "Banten 2",
+    "number": 35,
+    "name": "T Haerul Jaman"
+  },
+  {
+    "party": "PAN",
+    "area": "Banten 2",
+    "number": 36,
+    "name": "Yandri Susanto"
+  },
+  {
+    "party": "PDIP",
+    "area": "Banten 2",
+    "number": 37,
+    "name": "Ichsan Soelistyo"
+  },
+  {
+    "party": "PKS",
+    "area": "Banten 2",
+    "number": 38,
+    "name": "Jazuli Juwaeni"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Banten 3",
+    "number": 39,
+    "name": "Zulfikar"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Banten 3",
+    "number": 40,
+    "name": "Sufmi Dasco Ahmad"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Banten 3",
+    "number": 41,
+    "name": "Martina"
+  },
+  {
+    "party": "Golkar",
+    "area": "Banten 3",
+    "number": 42,
+    "name": "Andi Achmad Dara"
+  },
+  {
+    "party": "PAN",
+    "area": "Banten 3",
+    "number": 43,
+    "name": "Ali Taher Parasong"
+  },
+  {
+    "party": "PDIP",
+    "area": "Banten 3",
+    "number": 44,
+    "name": "Rano Karno"
+  },
+  {
+    "party": "PDIP",
+    "area": "Banten 3",
+    "number": 45,
+    "name": "Marinus Gea"
+  },
+  {
+    "party": "PDIP",
+    "area": "Banten 3",
+    "number": 46,
+    "name": "Ananta Wahana"
+  },
+  {
+    "party": "PKB",
+    "area": "Banten 3",
+    "number": 47,
+    "name": "Rano Al Fath"
+  },
+  {
+    "party": "PKS",
+    "area": "Banten 3",
+    "number": 48,
+    "name": "Mulyanto"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Bengkulu",
+    "number": 49,
+    "name": "Susi Marleny Bachsin"
+  },
+  {
+    "party": "Golkar",
+    "area": "Bengkulu",
+    "number": 50,
+    "name": "M Saleh"
+  },
+  {
+    "party": "PAN",
+    "area": "Bengkulu",
+    "number": 51,
+    "name": "Dewi Coryati"
+  },
+  {
+    "party": "PDIP",
+    "area": "Bengkulu",
+    "number": 52,
+    "name": "Eva Hartati"
+  },
+  {
+    "party": "Gerindra",
+    "area": "DIY",
+    "number": 53,
+    "name": "Andika Pandu Puragabaya"
+  },
+  {
+    "party": "Golkar",
+    "area": "DIY",
+    "number": 54,
+    "name": "Gandung Pardiman"
+  },
+  {
+    "party": "Nasdem",
+    "area": "DIY",
+    "number": 55,
+    "name": "Subardi"
+  },
+  {
+    "party": "PAN",
+    "area": "DIY",
+    "number": 56,
+    "name": "Hanafi Rais"
+  },
+  {
+    "party": "PDIP",
+    "area": "DIY",
+    "number": 57,
+    "name": "Idham Samawi"
+  },
+  {
+    "party": "PDIP",
+    "area": "DIY",
+    "number": 58,
+    "name": "My Esti Wijayati"
+  },
+  {
+    "party": "PKB",
+    "area": "DIY",
+    "number": 59,
+    "name": "Sukamto"
+  },
+  {
+    "party": "PKS",
+    "area": "DIY",
+    "number": 60,
+    "name": "Sukamta"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Gorontalo",
+    "number": 61,
+    "name": "Elnino M Husain"
+  },
+  {
+    "party": "Golkar",
+    "area": "Gorontalo",
+    "number": 62,
+    "name": "Idah Syaidah Rusli Habibie"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Gorontalo",
+    "number": 63,
+    "name": "Rachmad Gobel"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jabar 1",
+    "number": 64,
+    "name": "Agung Budi Santoso"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 1",
+    "number": 65,
+    "name": "Sodik Mudjahid"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 1",
+    "number": 66,
+    "name": "Nurul Arifin"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jabar 1",
+    "number": 67,
+    "name": "Muhamad Farhan"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 1",
+    "number": 68,
+    "name": "Junico Siahaan"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 1",
+    "number": 69,
+    "name": "Ledya Hanifa"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 1",
+    "number": 70,
+    "name": "Teddy Setiadi"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jabar 10",
+    "number": 71,
+    "name": "Didi Irawadi"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 10",
+    "number": 72,
+    "name": "Ardhya Pratiwi"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 10",
+    "number": 73,
+    "name": "Agun Gunandjar S"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 10",
+    "number": 74,
+    "name": "Muhammad Nurdin"
+  },
+  {
+    "party": "PKB",
+    "area": "Jabar 10",
+    "number": 75,
+    "name": "Yanuar Prihatin"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 10",
+    "number": 76,
+    "name": "Surahman Hidayat"
+  },
+  {
+    "party": "PPP",
+    "area": "Jabar 10",
+    "number": 77,
+    "name": "Asep A Maqshul"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jabar 11",
+    "number": 78,
+    "name": "Siti Fatahah"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 11",
+    "number": 79,
+    "name": "Muh. Husein Fadlulloh"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 11",
+    "number": 80,
+    "name": "Subarna"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 11",
+    "number": 81,
+    "name": "Ervin Luthfi"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 11",
+    "number": 82,
+    "name": "Ferdiansyah"
+  },
+  {
+    "party": "PAN",
+    "area": "Jabar 11",
+    "number": 83,
+    "name": "Haerudin"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 11",
+    "number": 84,
+    "name": "Dony Maryadi Oekon"
+  },
+  {
+    "party": "PKB",
+    "area": "Jabar 11",
+    "number": 85,
+    "name": "Acep Adang Ruhyat"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 11",
+    "number": 86,
+    "name": "Toriq Hidayat"
+  },
+  {
+    "party": "PPP",
+    "area": "Jabar 11",
+    "number": 87,
+    "name": "Nurhayati"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jabar 2",
+    "number": 88,
+    "name": "Dede Yusuf"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 2",
+    "number": 89,
+    "name": "Rachel Maryam"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 2",
+    "number": 90,
+    "name": "Iis Edhy Prabowo"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 2",
+    "number": 91,
+    "name": "Ace Hasan Syadzily"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 2",
+    "number": 92,
+    "name": "Anang Susanto"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jabar 2",
+    "number": 93,
+    "name": "Rian Firmansyah"
+  },
+  {
+    "party": "PAN",
+    "area": "Jabar 2",
+    "number": 94,
+    "name": "Ahmad Najib Qudratullah"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 2",
+    "number": 95,
+    "name": "Yadi Sri Mulyadi"
+  },
+  {
+    "party": "PKB",
+    "area": "Jabar 2",
+    "number": 96,
+    "name": "Cucun Ahmad Syamsurijal"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 2",
+    "number": 97,
+    "name": "Adang Sudrajat"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jabar 3",
+    "number": 98,
+    "name": "Sjarifuddin Hasan"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 3",
+    "number": 99,
+    "name": "Ahmad Riza Patria"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 3",
+    "number": 100,
+    "name": "Endang Setyawati T"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 3",
+    "number": 101,
+    "name": "Budhy Setiawan"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jabar 3",
+    "number": 102,
+    "name": "Tjejep Muchtar Soleh"
+  },
+  {
+    "party": "PAN",
+    "area": "Jabar 3",
+    "number": 103,
+    "name": "Eddy Soeparno"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 3",
+    "number": 104,
+    "name": "Diah Pitaloka"
+  },
+  {
+    "party": "PKB",
+    "area": "Jabar 3",
+    "number": 105,
+    "name": "Neng E M Zulfa Hiz"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 3",
+    "number": 106,
+    "name": "Ecky Awal Mucharam"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jabar 4",
+    "number": 107,
+    "name": "Mohammad Muraz"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 4",
+    "number": 108,
+    "name": "Heri Gunawan"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 4",
+    "number": 109,
+    "name": "Dewi Asmara"
+  },
+  {
+    "party": "PAN",
+    "area": "Jabar 4",
+    "number": 110,
+    "name": "Dessy Ratnasari"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 4",
+    "number": 111,
+    "name": "Ribka Tjiptaning P"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 4",
+    "number": 112,
+    "name": "Slamet"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jabar 5",
+    "number": 113,
+    "name": "Anton Sukartono Suratto"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 5",
+    "number": 114,
+    "name": "Fadli Zon"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 5",
+    "number": 115,
+    "name": "Mulyadi"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 5",
+    "number": 116,
+    "name": "Ichsan Firdaus"
+  },
+  {
+    "party": "PAN",
+    "area": "Jabar 5",
+    "number": 117,
+    "name": "Primus Yustisio"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 5",
+    "number": 118,
+    "name": "Adian Napitupulu"
+  },
+  {
+    "party": "PKB",
+    "area": "Jabar 5",
+    "number": 119,
+    "name": "Tommy Kurniawan"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 5",
+    "number": 120,
+    "name": "Fahmi Alaydroes"
+  },
+  {
+    "party": "PPP",
+    "area": "Jabar 5",
+    "number": 121,
+    "name": "Elly Rahmat Yasin"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 6",
+    "number": 122,
+    "name": "Nuroji"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 6",
+    "number": 123,
+    "name": "Wenny Haryanto"
+  },
+  {
+    "party": "PAN",
+    "area": "Jabar 6",
+    "number": 124,
+    "name": "Intan Fauzi"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 6",
+    "number": 125,
+    "name": "Sukur Nababan"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 6",
+    "number": 126,
+    "name": "Mahfudz Abdurrahman"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 6",
+    "number": 127,
+    "name": "Nur Azizah Tamhid"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jabar 7",
+    "number": 128,
+    "name": "Vera Febriyanti"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 7",
+    "number": 129,
+    "name": "Obon Tabroni"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 7",
+    "number": 130,
+    "name": "Putih Sari"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 7",
+    "number": 131,
+    "name": "Dedi Mulyadi"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 7",
+    "number": 132,
+    "name": "Putri Komaruddin"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jabar 7",
+    "number": 133,
+    "name": "Saan Mustofa"
+  },
+  {
+    "party": "PAN",
+    "area": "Jabar 7",
+    "number": 134,
+    "name": "Daeng Muhammad"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 7",
+    "number": 135,
+    "name": "Rieke Diah Pitaloka"
+  },
+  {
+    "party": "PKB",
+    "area": "Jabar 7",
+    "number": 136,
+    "name": "Syaiful Huda"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 7",
+    "number": 137,
+    "name": "Ahmad Syaikhu"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jabar 8",
+    "number": 138,
+    "name": "Herman Khaeron"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 8",
+    "number": 139,
+    "name": "Kardaya Warnika"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 8",
+    "number": 140,
+    "name": "Dave A. Fikarno"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 8",
+    "number": 141,
+    "name": "Daniel Muttaqien"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jabar 8",
+    "number": 142,
+    "name": "Satori"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 8",
+    "number": 143,
+    "name": "Ono Surono"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 8",
+    "number": 144,
+    "name": "Selly Andriany Gantina"
+  },
+  {
+    "party": "PKB",
+    "area": "Jabar 8",
+    "number": 145,
+    "name": "Dedi Wahidi"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 8",
+    "number": 146,
+    "name": "Netty Prasetiyani"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jabar 9",
+    "number": 147,
+    "name": "Linda Megawati"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jabar 9",
+    "number": 148,
+    "name": "Jeffry Romdonni"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jabar 9",
+    "number": 149,
+    "name": "Itje Siti Dewi Kuraesin"
+  },
+  {
+    "party": "PAN",
+    "area": "Jabar 9",
+    "number": 150,
+    "name": "Farah Putri Nahlia"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 9",
+    "number": 151,
+    "name": "Sutrisno"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jabar 9",
+    "number": 152,
+    "name": "TB Hasanuddin"
+  },
+  {
+    "party": "PKB",
+    "area": "Jabar 9",
+    "number": 153,
+    "name": "Maman Imanul Haq"
+  },
+  {
+    "party": "PKS",
+    "area": "Jabar 9",
+    "number": 154,
+    "name": "Nurhasan Zaidi"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jakarta 1",
+    "number": 155,
+    "name": "Habiburokhman"
+  },
+  {
+    "party": "PAN",
+    "area": "Jakarta 1",
+    "number": 156,
+    "name": "Eko Hendro Purnomo"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jakarta 1",
+    "number": 157,
+    "name": "Putra Nababan"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jakarta 1",
+    "number": 158,
+    "name": "Sondang Tiar Debora Tampubolon"
+  },
+  {
+    "party": "PKS",
+    "area": "Jakarta 1",
+    "number": 159,
+    "name": "Mardani Ali Sera"
+  },
+  {
+    "party": "PKS",
+    "area": "Jakarta 1",
+    "number": 160,
+    "name": "Anis"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jakarta 2",
+    "number": 161,
+    "name": "Melani"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jakarta 2",
+    "number": 162,
+    "name": "Himatul Aliyah"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jakarta 2",
+    "number": 163,
+    "name": "Biem Triani Benjamin"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jakarta 2",
+    "number": 164,
+    "name": "Elvin"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jakarta 2",
+    "number": 165,
+    "name": "Eriko Sotarduga"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jakarta 2",
+    "number": 166,
+    "name": "Masinton Pasaribu"
+  },
+  {
+    "party": "PKS",
+    "area": "Jakarta 2",
+    "number": 167,
+    "name": "Hidayat Nur Wahid"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jakarta 3",
+    "number": 168,
+    "name": "Santoso"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jakarta 3",
+    "number": 169,
+    "name": "Kamrussamad"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jakarta 3",
+    "number": 170,
+    "name": "Ahmad Sahroni"
+  },
+  {
+    "party": "PAN",
+    "area": "Jakarta 3",
+    "number": 171,
+    "name": "Haji Lulung Abraham"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jakarta 3",
+    "number": 172,
+    "name": "Charles Honoris"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jakarta 3",
+    "number": 173,
+    "name": "Effendi Simbolon"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jakarta 3",
+    "number": 174,
+    "name": "Darmadi Durianto"
+  },
+  {
+    "party": "PKS",
+    "area": "Jakarta 3",
+    "number": 175,
+    "name": "Adang Doradjatun"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jambi",
+    "number": 176,
+    "name": "Zulfikar Ahmad"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jambi",
+    "number": 177,
+    "name": "Sutan Adil Hendra"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jambi",
+    "number": 178,
+    "name": "Hasan Basri Agus"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jambi",
+    "number": 179,
+    "name": "Saniatul Latifa"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jambi",
+    "number": 180,
+    "name": "Agus S Roni"
+  },
+  {
+    "party": "PAN",
+    "area": "Jambi",
+    "number": 181,
+    "name": "H. Bakri HM"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jambi",
+    "number": 182,
+    "name": "Ihsan Yunus"
+  },
+  {
+    "party": "PKB",
+    "area": "Jambi",
+    "number": 183,
+    "name": "Sofyan Ali"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jateng 1",
+    "number": 184,
+    "name": "A.S. Sukawijaya"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jateng 1",
+    "number": 185,
+    "name": "Sigit Ibnugroho"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 1",
+    "number": 186,
+    "name": "Mujib Rohmat"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jateng 1",
+    "number": 187,
+    "name": "Fadholi"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 1",
+    "number": 188,
+    "name": "Juliari P Batubara"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 1",
+    "number": 189,
+    "name": "M Hervino"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 1",
+    "number": 190,
+    "name": "Alamudin Dimyati Rois"
+  },
+  {
+    "party": "PKS",
+    "area": "Jateng 1",
+    "number": 191,
+    "name": "Bukhori"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jateng 10",
+    "number": 192,
+    "name": "Ramson Siagian"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 10",
+    "number": 193,
+    "name": "Doni Akbar"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 10",
+    "number": 194,
+    "name": "Dede Indra Permana"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 10",
+    "number": 195,
+    "name": "Hendrawan Supratikno"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 10",
+    "number": 196,
+    "name": "Yaqut Cholil Qoumas"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 10",
+    "number": 197,
+    "name": "Bisri Romly"
+  },
+  {
+    "party": "PPP",
+    "area": "Jateng 10",
+    "number": 198,
+    "name": "Arsul Sani"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jateng 2",
+    "number": 199,
+    "name": "Abdul Wachid"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 2",
+    "number": 200,
+    "name": "Nusron Wahid"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jateng 2",
+    "number": 201,
+    "name": "Lestari Moerdijat"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 2",
+    "number": 202,
+    "name": "Gilang Dhielafararez"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 2",
+    "number": 203,
+    "name": "Musthofa"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 2",
+    "number": 204,
+    "name": "Fathan Subchi"
+  },
+  {
+    "party": "PPP",
+    "area": "Jateng 2",
+    "number": 205,
+    "name": "Rojih"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jateng 3",
+    "number": 206,
+    "name": "Harmusa Oktaviani"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jateng 3",
+    "number": 207,
+    "name": "Sudewo"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 3",
+    "number": 208,
+    "name": "Firman Subagyo"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jateng 3",
+    "number": 209,
+    "name": "Sri Wulan"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 3",
+    "number": 210,
+    "name": "Edy Wuryanto"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 3",
+    "number": 211,
+    "name": "Evita Nur Santy"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 3",
+    "number": 212,
+    "name": "Imam Suroso"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 3",
+    "number": 213,
+    "name": "Marwan Ja'far"
+  },
+  {
+    "party": "PPP",
+    "area": "Jateng 3",
+    "number": 214,
+    "name": "Arwani Thomafi"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 4",
+    "number": 215,
+    "name": "Endang Maria Astuti"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 4",
+    "number": 216,
+    "name": "Agustina W Pramestuti"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 4",
+    "number": 217,
+    "name": "Doflie OFP"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 4",
+    "number": 218,
+    "name": "Bambang Wuryanto"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 4",
+    "number": 219,
+    "name": "Paryono"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 4",
+    "number": 220,
+    "name": "Luluk Nurhamidah"
+  },
+  {
+    "party": "PKS",
+    "area": "Jateng 4",
+    "number": 221,
+    "name": "Hamid Noor Yasin"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 5",
+    "number": 222,
+    "name": "Singgih Januratmoko"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jateng 5",
+    "number": 223,
+    "name": "Eva Yuliana"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 5",
+    "number": 224,
+    "name": "Alfia Reizani"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 5",
+    "number": 225,
+    "name": "Aria Bima"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 5",
+    "number": 226,
+    "name": "Puan Maharani"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 5",
+    "number": 227,
+    "name": "Rahmad Handoyo"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 5",
+    "number": 228,
+    "name": "M Thoha"
+  },
+  {
+    "party": "PKS",
+    "area": "Jateng 5",
+    "number": 229,
+    "name": "Abdul K. Al Masyhari"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jateng 6",
+    "number": 230,
+    "name": "Bramantyo Suwondo"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jateng 6",
+    "number": 231,
+    "name": "Harry Poernomo"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 6",
+    "number": 232,
+    "name": "Panggah Susanto"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 6",
+    "number": 233,
+    "name": "Sudjadi"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 6",
+    "number": 234,
+    "name": "Vita Ervina"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 6",
+    "number": 235,
+    "name": "Abdul Kadir Karding"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 6",
+    "number": 236,
+    "name": "Luqman Hakim"
+  },
+  {
+    "party": "PPP",
+    "area": "Jateng 6",
+    "number": 237,
+    "name": "Muslich Zainal Abidin"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jateng 7",
+    "number": 238,
+    "name": "Lasmi Indrayani"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jateng 7",
+    "number": 239,
+    "name": "Darori Wonodipuro"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 7",
+    "number": 240,
+    "name": "Bambang Soesatyo"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 7",
+    "number": 241,
+    "name": "Utut Adianto"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 7",
+    "number": 242,
+    "name": "Heru Sudjatmoko"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 7",
+    "number": 243,
+    "name": "Taufiq R Abdullah"
+  },
+  {
+    "party": "PKS",
+    "area": "Jateng 7",
+    "number": 244,
+    "name": "Rofiq Ananto"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jateng 8",
+    "number": 245,
+    "name": "Wastam"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jateng 8",
+    "number": 246,
+    "name": "Novita Wijayanti"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 8",
+    "number": 247,
+    "name": "Wirendra Tjakrawerdaja"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 8",
+    "number": 248,
+    "name": "Teti Rohatiningsih"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jateng 8",
+    "number": 249,
+    "name": "Sugeng Suparwoto"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 8",
+    "number": 250,
+    "name": "Adisatria Suryo Sulistio"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 8",
+    "number": 251,
+    "name": "Sunarna"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 8",
+    "number": 252,
+    "name": "Siti Mukarromah"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jateng 9",
+    "number": 253,
+    "name": "Muhammad Haekal"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jateng 9",
+    "number": 254,
+    "name": "Agung Widyantoro"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 9",
+    "number": 255,
+    "name": "Dewi Aryani"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 9",
+    "number": 256,
+    "name": "Muhammad Prakosa"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jateng 9",
+    "number": 257,
+    "name": "Paramita Indra Kusuma"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 9",
+    "number": 258,
+    "name": "Bachrudin Nasori"
+  },
+  {
+    "party": "PKB",
+    "area": "Jateng 9",
+    "number": 259,
+    "name": "Nur Nadlifah"
+  },
+  {
+    "party": "PKS",
+    "area": "Jateng 9",
+    "number": 260,
+    "name": "Abdul Fikri Faqih"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jatim 1",
+    "number": 261,
+    "name": "Lucy Kurniasari"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 1",
+    "number": 262,
+    "name": "Rahmat Muhajirin"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 1",
+    "number": 263,
+    "name": "Adies Kadir"
+  },
+  {
+    "party": "PAN",
+    "area": "Jatim 1",
+    "number": 264,
+    "name": "Sungkono"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 1",
+    "number": 265,
+    "name": "Bambang DH"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 1",
+    "number": 266,
+    "name": "Indah Kurniawati"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 1",
+    "number": 267,
+    "name": "Puti Guntur Sukarno"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 1",
+    "number": 268,
+    "name": "Arzeti Bilbina"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 1",
+    "number": 269,
+    "name": "Syaikhul Islam"
+  },
+  {
+    "party": "PKS",
+    "area": "Jatim 1",
+    "number": 270,
+    "name": "Sigit Sosiantomo"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jatim 10",
+    "number": 271,
+    "name": "Debby Kurniawan"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 10",
+    "number": 272,
+    "name": "Khilmi"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 10",
+    "number": 273,
+    "name": "Diah Roro Esti"
+  },
+  {
+    "party": "PAN",
+    "area": "Jatim 10",
+    "number": 274,
+    "name": "Zainuddin Maliki"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 10",
+    "number": 275,
+    "name": "Nasyirul Falah Amru"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 10",
+    "number": 276,
+    "name": "Jazilul Fawaid"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jatim 11",
+    "number": 277,
+    "name": "Hasan Bin Zuber"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 11",
+    "number": 278,
+    "name": "Imron Amin"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 11",
+    "number": 279,
+    "name": "Zainuddin Amali"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jatim 11",
+    "number": 280,
+    "name": "Willy Aditya"
+  },
+  {
+    "party": "PAN",
+    "area": "Jatim 11",
+    "number": 281,
+    "name": "Slamet Ariyadi"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 11",
+    "number": 282,
+    "name": "MH Said Abdullah"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 11",
+    "number": 283,
+    "name": "Syaifuddin Asmoro"
+  },
+  {
+    "party": "PPP",
+    "area": "Jatim 11",
+    "number": 284,
+    "name": "Achmad Baidowi"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 2",
+    "number": 285,
+    "name": "Moekhlas Sidik"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 2",
+    "number": 286,
+    "name": "Muhammad Misbakhun"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jatim 2",
+    "number": 287,
+    "name": "Aminurokhman"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jatim 2",
+    "number": 288,
+    "name": "Hasan Aminudin"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 2",
+    "number": 289,
+    "name": "Mufti Aimah N.Anam"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 2",
+    "number": 290,
+    "name": "Faisol Reza"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 2",
+    "number": 291,
+    "name": "Anisa Syakur"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 3",
+    "number": 292,
+    "name": "Sumail Abdullah"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 3",
+    "number": 293,
+    "name": "Zulfikar Arse Arifin"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jatim 3",
+    "number": 294,
+    "name": "Ach Fadil Muzakki Syah"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 3",
+    "number": 295,
+    "name": "Sony D Paramitha"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 3",
+    "number": 296,
+    "name": "M. Nasim Khan"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 3",
+    "number": 297,
+    "name": "Nihayatul Wafiroh"
+  },
+  {
+    "party": "PPP",
+    "area": "Jatim 3",
+    "number": 298,
+    "name": "Sy Anas Thahir"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 4",
+    "number": 299,
+    "name": "Bambang Haryadi"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 4",
+    "number": 300,
+    "name": "M. Nur Purnamasidi"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jatim 4",
+    "number": 301,
+    "name": "Charles Meikyansyah"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 4",
+    "number": 302,
+    "name": "Arif Wibowo"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 4",
+    "number": 303,
+    "name": "Umar Bashor"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 4",
+    "number": 304,
+    "name": "Syaiful Bahri Ansyori"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 4",
+    "number": 305,
+    "name": "Nur Yasin"
+  },
+  {
+    "party": "PKS",
+    "area": "Jatim 4",
+    "number": 306,
+    "name": "Amin Aka"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 5",
+    "number": 307,
+    "name": "Moreno Soeprapto"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 5",
+    "number": 308,
+    "name": "Ridwan Hisjam"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jatim 5",
+    "number": 309,
+    "name": "Kresna D. Phrosakh"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 5",
+    "number": 310,
+    "name": "Andreas Eddy Susetyo"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 5",
+    "number": 311,
+    "name": "Ahmad Basarah"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 5",
+    "number": 312,
+    "name": "Krisdayanti"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 5",
+    "number": 313,
+    "name": "Lathifah Shohib"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 5",
+    "number": 314,
+    "name": "Ali Ahmad"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 6",
+    "number": 315,
+    "name": "Endro Hermono"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 6",
+    "number": 316,
+    "name": "M Sarmudji"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jatim 6",
+    "number": 317,
+    "name": "Nurhadi"
+  },
+  {
+    "party": "PAN",
+    "area": "Jatim 6",
+    "number": 318,
+    "name": "Ahmad Rizki Sadiq"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 6",
+    "number": 319,
+    "name": "Arteria Dahlan"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 6",
+    "number": 320,
+    "name": "Guruh Sukarno Putra"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 6",
+    "number": 321,
+    "name": "Sri Rahayu"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 6",
+    "number": 322,
+    "name": "Anggia Ermarini"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 6",
+    "number": 323,
+    "name": "An’im Falachuddin"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jatim 7",
+    "number": 324,
+    "name": "Edhie Baskoro Yudhoyono"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jatim 7",
+    "number": 325,
+    "name": "Sartono"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 7",
+    "number": 326,
+    "name": "Supriyanto"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 7",
+    "number": 327,
+    "name": "Gatot Sudjito"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jatim 7",
+    "number": 328,
+    "name": "Sri Wahyuni"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 7",
+    "number": 329,
+    "name": "Inna Ammania"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 7",
+    "number": 330,
+    "name": "Johan Budi S. Prabowo"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 7",
+    "number": 331,
+    "name": "Ibnu Multazam"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jatim 8",
+    "number": 332,
+    "name": "Guntur Sasono"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 8",
+    "number": 333,
+    "name": "Soepriyatno"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 8",
+    "number": 334,
+    "name": "Yahya Zaini"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Jatim 8",
+    "number": 335,
+    "name": "Soehartono"
+  },
+  {
+    "party": "PAN",
+    "area": "Jatim 8",
+    "number": 336,
+    "name": "Abdul Hakim Bafaqih"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 8",
+    "number": 337,
+    "name": "Sudarestu Wati"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 8",
+    "number": 338,
+    "name": "Mindo Sianipar"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 8",
+    "number": 339,
+    "name": "Abd. Muhaimin Iskandar"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 8",
+    "number": 340,
+    "name": "Muhtarom"
+  },
+  {
+    "party": "PPP",
+    "area": "Jatim 8",
+    "number": 341,
+    "name": "Ema Umiyati Chusna"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Jatim 9",
+    "number": 342,
+    "name": "Didik Mukriyanto"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Jatim 9",
+    "number": 343,
+    "name": "Wihadi Wiyanto"
+  },
+  {
+    "party": "Golkar",
+    "area": "Jatim 9",
+    "number": 344,
+    "name": "Haeny Relawati"
+  },
+  {
+    "party": "PDIP",
+    "area": "Jatim 9",
+    "number": 345,
+    "name": "Abidin Fikri"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 9",
+    "number": 346,
+    "name": "Ratna Juwita Sari"
+  },
+  {
+    "party": "PKB",
+    "area": "Jatim 9",
+    "number": 347,
+    "name": "Faridah Hidayati"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Kalbar 1",
+    "number": 348,
+    "name": "Yusid Toyib"
+  },
+  {
+    "party": "Golkar",
+    "area": "Kalbar 1",
+    "number": 349,
+    "name": "Maman Abdurrahman"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Kalbar 1",
+    "number": 350,
+    "name": "Syarif A. Alkadrie"
+  },
+  {
+    "party": "PAN",
+    "area": "Kalbar 1",
+    "number": 351,
+    "name": "Boyman Harun"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kalbar 1",
+    "number": 352,
+    "name": "Cornelis"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kalbar 1",
+    "number": 353,
+    "name": "Alexius Akim"
+  },
+  {
+    "party": "PKB",
+    "area": "Kalbar 1",
+    "number": 354,
+    "name": "Daniel Johan"
+  },
+  {
+    "party": "PKS",
+    "area": "Kalbar 1",
+    "number": 355,
+    "name": "Alifuddin"
+  },
+  {
+    "party": "Golkar",
+    "area": " Kalbar 2",
+    "number": 356,
+    "name": "Adrianus Asia"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Kalbar 2",
+    "number": 357,
+    "name": "Yessy Melania"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kalbar 2",
+    "number": 358,
+    "name": "Lasarus"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kalbar 2",
+    "number": 359,
+    "name": "Krisantus Kurniawan"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Kalsel 1",
+    "number": 360,
+    "name": "Syaiful Rasyid"
+  },
+  {
+    "party": "Golkar",
+    "area": "Kalsel 1",
+    "number": 361,
+    "name": "Bambang Heri Purnama"
+  },
+  {
+    "party": "PAN",
+    "area": "Kalsel 1",
+    "number": 362,
+    "name": "Pangeran Khaerul Saleh"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kalsel 1",
+    "number": 363,
+    "name": "Rifkynizami Karsayuda"
+  },
+  {
+    "party": "PKS",
+    "area": "Kalsel 1",
+    "number": 364,
+    "name": "Aboebakar Al-Habsyi"
+  },
+  {
+    "party": "PPP",
+    "area": "Kalsel 1",
+    "number": 365,
+    "name": "Syaifullah Tamliha"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Kalsel 2",
+    "number": 366,
+    "name": "Muhammad Nur"
+  },
+  {
+    "party": "Golkar",
+    "area": "Kalsel 2",
+    "number": 367,
+    "name": "Hasnuryadi Sulaiman HB"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kalsel 2",
+    "number": 368,
+    "name": "Sulaiman Umar Siddiq"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kalsel 2",
+    "number": 369,
+    "name": "Syafruddin H Maming"
+  },
+  {
+    "party": "PKB",
+    "area": "Kalsel 2",
+    "number": 370,
+    "name": "Zairullah Azhar"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Kaltara",
+    "number": 371,
+    "name": "Hasan Saleh"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Kaltara",
+    "number": 372,
+    "name": "Arkanatana Akram"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kaltara",
+    "number": 373,
+    "name": "Deddy Yevri Sitorus"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Kalteng",
+    "number": 374,
+    "name": "Bambang Purwanto"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Kalteng",
+    "number": 375,
+    "name": "Iwan Kurniawan"
+  },
+  {
+    "party": "Golkar",
+    "area": "Kalteng",
+    "number": 376,
+    "name": "Mukhtarudin"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Kalteng",
+    "number": 377,
+    "name": "Ary Egahni"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kalteng",
+    "number": 378,
+    "name": "Willy MY"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kalteng",
+    "number": 379,
+    "name": "Agustiar Sabran"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Kaltim",
+    "number": 380,
+    "name": "Irwan Datu Adam"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Kaltim",
+    "number": 381,
+    "name": "Budi Satrio Djiwandono"
+  },
+  {
+    "party": "Golkar",
+    "area": "Kaltim",
+    "number": 382,
+    "name": "Rudy Mas'ud"
+  },
+  {
+    "party": "Golkar",
+    "area": "Kaltim",
+    "number": 383,
+    "name": "Hetifah Sjaifudian"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Kaltim",
+    "number": 384,
+    "name": "Awang Faroek Ishak"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kaltim",
+    "number": 385,
+    "name": "Ismael Thomas"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kaltim",
+    "number": 386,
+    "name": "Saparuddin"
+  },
+  {
+    "party": "PKS",
+    "area": "Kaltim",
+    "number": 387,
+    "name": "Aus Hidayat Nur"
+  },
+  {
+    "party": "Golkar",
+    "area": "Kepri",
+    "number": 388,
+    "name": "Anshar Ahmad"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Kepri",
+    "number": 389,
+    "name": "Nyat Kadir"
+  },
+  {
+    "party": "PAN",
+    "area": "Kepri",
+    "number": 390,
+    "name": "Asman Abnur"
+  },
+  {
+    "party": "PDIP",
+    "area": "Kepri",
+    "number": 391,
+    "name": "Sturman Panjaitan"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Lampung 1",
+    "number": 392,
+    "name": "Zulkifli Anwar"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Lampung 1",
+    "number": 393,
+    "name": "Ahmad Muzani"
+  },
+  {
+    "party": "Golkar",
+    "area": "Lampung 1",
+    "number": 394,
+    "name": "Lodewijk F Paulus"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Lampung 1",
+    "number": 395,
+    "name": "Taufik Basari"
+  },
+  {
+    "party": "PAN",
+    "area": "Lampung 1",
+    "number": 396,
+    "name": "Zulkifli Hasan"
+  },
+  {
+    "party": "PDIP",
+    "area": "Lampung 1",
+    "number": 397,
+    "name": "Mukhlis Basri"
+  },
+  {
+    "party": "PDIP",
+    "area": "Lampung 1",
+    "number": 398,
+    "name": "Sudin"
+  },
+  {
+    "party": "PDIP",
+    "area": "Lampung 1",
+    "number": 399,
+    "name": "Endro S Yahman"
+  },
+  {
+    "party": "PKB",
+    "area": "Lampung 1",
+    "number": 400,
+    "name": "Muhammad Khadafi"
+  },
+  {
+    "party": "PKS",
+    "area": "Lampung 1",
+    "number": 401,
+    "name": "Al Muzzamil Yusuf"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Lampung 2",
+    "number": 402,
+    "name": "Marwan Cik Hasan"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Lampung 2",
+    "number": 403,
+    "name": "Dwita Ria Gunadi"
+  },
+  {
+    "party": "Golkar",
+    "area": "Lampung 2",
+    "number": 404,
+    "name": "Azis Syamsuddin"
+  },
+  {
+    "party": "Golkar",
+    "area": "Lampung 2",
+    "number": 405,
+    "name": "Hanan A Rozak"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Lampung 2",
+    "number": 406,
+    "name": "Tamanuri"
+  },
+  {
+    "party": "PAN",
+    "area": "Lampung 2",
+    "number": 407,
+    "name": "Alimin Abdullah"
+  },
+  {
+    "party": "PDIP",
+    "area": "Lampung 2",
+    "number": 408,
+    "name": "Bambang Suryadi"
+  },
+  {
+    "party": "PDIP",
+    "area": "Lampung 2",
+    "number": 409,
+    "name": "I Komang Koheri"
+  },
+  {
+    "party": "PKB",
+    "area": "Lampung 2",
+    "number": 410,
+    "name": "Ela Siti Nuryamah"
+  },
+  {
+    "party": "PKS",
+    "area": "Lampung 2",
+    "number": 411,
+    "name": "A Junaidi Auly"
+  },
+  {
+    "party": "Golkar",
+    "area": "Malut",
+    "number": 412,
+    "name": "Alien Mus"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Malut",
+    "number": 413,
+    "name": "Achmad Hattari"
+  },
+  {
+    "party": "PDIP",
+    "area": "Malut",
+    "number": 414,
+    "name": "Irine Yusiana Roba Putri"
+  },
+  {
+    "party": "Gerindra",
+    "area": "NTB 1",
+    "number": 415,
+    "name": "Zainul Arifin"
+  },
+  {
+    "party": "PAN",
+    "area": "NTB 1",
+    "number": 416,
+    "name": "M. Syafruddin"
+  },
+  {
+    "party": "PKS",
+    "area": "NTB 1",
+    "number": 417,
+    "name": "Johan Rosihan"
+  },
+  {
+    "party": "Demokrat",
+    "area": "NTB 2",
+    "number": 418,
+    "name": "Nanang Samodra"
+  },
+  {
+    "party": "Gerindra",
+    "area": "NTB 2",
+    "number": 419,
+    "name": "Bambang Kristiono"
+  },
+  {
+    "party": "Golkar",
+    "area": "NTB 2",
+    "number": 420,
+    "name": "Sari Yuliati"
+  },
+  {
+    "party": "Nasdem",
+    "area": "NTB 2",
+    "number": 421,
+    "name": "Syamsul Luthfi"
+  },
+  {
+    "party": "PDIP",
+    "area": "NTB 2",
+    "number": 422,
+    "name": "Rachmat Hidayat"
+  },
+  {
+    "party": "PKB",
+    "area": "NTB 2",
+    "number": 423,
+    "name": "Helmy Faisal Zaini"
+  },
+  {
+    "party": "PKS",
+    "area": "NTB 2",
+    "number": 424,
+    "name": "Suryadi Jaya Purnama"
+  },
+  {
+    "party": "PPP",
+    "area": "NTB 2",
+    "number": 425,
+    "name": "Wartiah"
+  },
+  {
+    "party": "Demokrat",
+    "area": "NTT 1",
+    "number": 426,
+    "name": "Benny K Harman"
+  },
+  {
+    "party": "Golkar",
+    "area": "NTT 1",
+    "number": 427,
+    "name": "Melchias Markus Mekeng"
+  },
+  {
+    "party": "Nasdem",
+    "area": "NTT 1",
+    "number": 428,
+    "name": "Johny G Plate"
+  },
+  {
+    "party": "PAN",
+    "area": "NTT 1",
+    "number": 429,
+    "name": "Ahmad Yohan"
+  },
+  {
+    "party": "PDIP",
+    "area": "NTT 1",
+    "number": 430,
+    "name": "Andreas Hugo Parera"
+  },
+  {
+    "party": "PKB",
+    "area": "NTT 1",
+    "number": 431,
+    "name": "Dipo Nusantara Pua Uba"
+  },
+  {
+    "party": "Demokrat",
+    "area": "NTT 2",
+    "number": 432,
+    "name": "Anita Jacoba Gah"
+  },
+  {
+    "party": "Golkar",
+    "area": "NTT 2",
+    "number": 433,
+    "name": "Emanuel Melkiades Laka Lena"
+  },
+  {
+    "party": "Nasdem",
+    "area": "NTT 2",
+    "number": 434,
+    "name": "Ratu Nggadu Wulla"
+  },
+  {
+    "party": "Nasdem",
+    "area": "NTT 2",
+    "number": 435,
+    "name": "Kristiana Muki"
+  },
+  {
+    "party": "PDIP",
+    "area": "NTT 2",
+    "number": 436,
+    "name": "Herman Herry"
+  },
+  {
+    "party": "PDIP",
+    "area": "NTT 2",
+    "number": 437,
+    "name": "Yohanis Franciskus Lema"
+  },
+  {
+    "party": "PKB",
+    "area": "NTT 2",
+    "number": 438,
+    "name": "Edwar Tanur"
+  },
+  {
+    "party": "Golkar",
+    "area": "Papua Barat",
+    "number": 439,
+    "name": "Robert Kardinal"
+  },
+  {
+    "party": "Nasdem ",
+    "area": "Papua Barat",
+    "number": 440,
+    "name": "Rico Sia"
+  },
+  {
+    "party": "PDIP",
+    "area": "Papua Barat",
+    "number": 441,
+    "name": "Jimmie Demianus Ijie"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Riau 1",
+    "number": 442,
+    "name": "Achmad"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Riau 1",
+    "number": 443,
+    "name": "Muhammad Rahul"
+  },
+  {
+    "party": "Golkar",
+    "area": "Riau 1",
+    "number": 444,
+    "name": "Arsyad J Rachman"
+  },
+  {
+    "party": "PAN",
+    "area": "Riau 1",
+    "number": 445,
+    "name": "Jon Erizal"
+  },
+  {
+    "party": "PDIP",
+    "area": "Riau 1",
+    "number": 446,
+    "name": "Effendi Sianipar"
+  },
+  {
+    "party": "PKS",
+    "area": "Riau 1",
+    "number": 447,
+    "name": "Chaerul Anwar"
+  },
+  {
+    "party": "PPP",
+    "area": "Riau 1",
+    "number": 448,
+    "name": "Syamsurizal"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Riau 2",
+    "number": 449,
+    "name": "M Nasir"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Riau 2",
+    "number": 450,
+    "name": "Nurzahedi"
+  },
+  {
+    "party": "Golkar",
+    "area": "Riau 2",
+    "number": 451,
+    "name": "M Idris Laena"
+  },
+  {
+    "party": "PDIP",
+    "area": "Riau 2",
+    "number": 452,
+    "name": "Marsiaman Saragih"
+  },
+  {
+    "party": "PKB",
+    "area": "Riau 2",
+    "number": 453,
+    "name": "Abdul Wahid"
+  },
+  {
+    "party": "PKS",
+    "area": "Riau 2",
+    "number": 454,
+    "name": "Syahrul Aidi Maazat"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sulbar",
+    "number": 455,
+    "name": "Suhardi Duka"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sulbar",
+    "number": 456,
+    "name": "Andi Ruskati Ali Baal"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sulbar",
+    "number": 457,
+    "name": "Ratih Megasari Singkarru"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sulbar",
+    "number": 458,
+    "name": "Arwan Aras"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sulsel 1",
+    "number": 459,
+    "name": "Aliyah Mustika Ilham"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sulsel 1",
+    "number": 460,
+    "name": "Azikin Solthan"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sulsel 1",
+    "number": 461,
+    "name": "Hamka B Kady"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sulsel 1",
+    "number": 462,
+    "name": "Rapsel Ali"
+  },
+  {
+    "party": "PAN",
+    "area": "Sulsel 1",
+    "number": 463,
+    "name": "Ashabul Kahfi"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sulsel 1",
+    "number": 464,
+    "name": "Andi Ridwan Wittiri"
+  },
+  {
+    "party": "PKB",
+    "area": "Sulsel 1",
+    "number": 465,
+    "name": "Haruna"
+  },
+  {
+    "party": "PPP",
+    "area": "Sulsel 1",
+    "number": 466,
+    "name": "Amir Uskara"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sulsel 2",
+    "number": 467,
+    "name": "Andi Iwan Darmawan Aras"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sulsel 2",
+    "number": 468,
+    "name": "Andi Rio Pandjalangi"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sulsel 2",
+    "number": 469,
+    "name": "Supriansa Mannahawu"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sulsel 2",
+    "number": 470,
+    "name": "Drg Hasnah Syam"
+  },
+  {
+    "party": "PAN",
+    "area": "Sulsel 2",
+    "number": 471,
+    "name": "Andi Yuliani Paris"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sulsel 2",
+    "number": 472,
+    "name": "Syamsu Niang"
+  },
+  {
+    "party": "PKB",
+    "area": "Sulsel 2",
+    "number": 473,
+    "name": "Andi Muawiyah Ramli"
+  },
+  {
+    "party": "PKS",
+    "area": "Sulsel 2",
+    "number": 474,
+    "name": "Andi Akmal Pasluddin"
+  },
+  {
+    "party": "PPP",
+    "area": "Sulsel 2",
+    "number": 475,
+    "name": "Muhammad Aras"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sulsel 3",
+    "number": 476,
+    "name": "Muhammad Dhevy Bijak Pawindu"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sulsel 3",
+    "number": 477,
+    "name": "La Tinro La Tunrung"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sulsel 3",
+    "number": 478,
+    "name": "Muhammad Fauzi"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sulsel 3",
+    "number": 479,
+    "name": "Rusdi Masse"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sulsel 3",
+    "number": 480,
+    "name": "Eva Stevany Rataba"
+  },
+  {
+    "party": "PAN",
+    "area": "Sulsel 3",
+    "number": 481,
+    "name": "Mitra Fakhruddin MB"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sulsel 3",
+    "number": 482,
+    "name": "Sarce Bandaso T"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sulteng",
+    "number": 483,
+    "name": "Anwar Hafid"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sulteng",
+    "number": 484,
+    "name": "Supratman Andi Agtas"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sulteng",
+    "number": 485,
+    "name": "Muhidin M Said"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sulteng",
+    "number": 486,
+    "name": "Ahmad M Ali"
+  },
+  {
+    "party": "PAN",
+    "area": "Sulteng",
+    "number": 487,
+    "name": "Sarifuding Suding"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sulteng",
+    "number": 488,
+    "name": "Matindas J Rumambi"
+  },
+  {
+    "party": "PKB",
+    "area": "Sulteng",
+    "number": 489,
+    "name": "Risharyudi Triwibowo"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sultra",
+    "number": 490,
+    "name": "Rusda Mahmud"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sultra",
+    "number": 491,
+    "name": "Imran"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sultra",
+    "number": 492,
+    "name": "Ridwan Bae"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sultra",
+    "number": 493,
+    "name": "Tina Nur Alam"
+  },
+  {
+    "party": "PAN",
+    "area": "Sultra",
+    "number": 494,
+    "name": "Fachry Pahlevi Konggoasa"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sultra",
+    "number": 495,
+    "name": "Hugua"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sulut",
+    "number": 496,
+    "name": "Adrian Jopie Paruntu"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sulut",
+    "number": 497,
+    "name": "Felly Estelita Runtuwene"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sulut",
+    "number": 498,
+    "name": "Hillary Brigitta Lasut"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sulut",
+    "number": 499,
+    "name": "Adriana Charlotte Dondokambey"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sulut",
+    "number": 500,
+    "name": "Herson Mayulu"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sulut",
+    "number": 501,
+    "name": "Vanda Sarundajang"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sumbar 1",
+    "number": 502,
+    "name": "Darizal Basir"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sumbar 1",
+    "number": 503,
+    "name": "Andre Rosiade"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sumbar 1",
+    "number": 504,
+    "name": "Suir Syam"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sumbar 1",
+    "number": 505,
+    "name": "Darul Siska"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sumbar 1",
+    "number": 506,
+    "name": "Lisda Hendrajoni"
+  },
+  {
+    "party": "PAN",
+    "area": "Sumbar 1",
+    "number": 507,
+    "name": "Athari Gauti Ardi"
+  },
+  {
+    "party": "PAN",
+    "area": "Sumbar 1",
+    "number": 508,
+    "name": "Asli Chaidir"
+  },
+  {
+    "party": "PKS",
+    "area": "Sumbar 1",
+    "number": 509,
+    "name": "Hermanto"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sumbar 2",
+    "number": 510,
+    "name": "Mulyadi"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sumbar 2",
+    "number": 511,
+    "name": "Ade Riski Pratama"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sumbar 2",
+    "number": 512,
+    "name": "John Kennedy Azis"
+  },
+  {
+    "party": "PAN",
+    "area": "Sumbar 2",
+    "number": 513,
+    "name": "Guspardi Gaus"
+  },
+  {
+    "party": "PKS",
+    "area": "Sumbar 2",
+    "number": 514,
+    "name": "Nelvi Zuariana"
+  },
+  {
+    "party": "PPP",
+    "area": "Sumbar 2",
+    "number": 515,
+    "name": "Muhammad Iqbal"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sumsel 1",
+    "number": 516,
+    "name": "Ishak Mekki"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sumsel 1",
+    "number": 517,
+    "name": "Edhy Prabowo"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sumsel 1",
+    "number": 518,
+    "name": "Eddy Santana Putra"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sumsel 1",
+    "number": 519,
+    "name": "Kahar Muzakkir"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sumsel 1",
+    "number": 520,
+    "name": "Fauzi H Amro"
+  },
+  {
+    "party": "PAN",
+    "area": "Sumsel 1",
+    "number": 521,
+    "name": "Hafidz Tohir"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sumsel 1",
+    "number": 522,
+    "name": "Riezky Aprilia"
+  },
+  {
+    "party": "PKS",
+    "area": "Sumsel 1",
+    "number": 523,
+    "name": "Mustafa Kamal"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sumsel 2",
+    "number": 524,
+    "name": "Wahyu Sanjaya"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sumsel 2",
+    "number": 525,
+    "name": "Sri Meliana"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sumsel 2",
+    "number": 526,
+    "name": "Alex Noerdin"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sumsel 2",
+    "number": 527,
+    "name": "Bobby A Rizaldi"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sumsel 2",
+    "number": 528,
+    "name": "Perca Leanpuri"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sumsel 2",
+    "number": 529,
+    "name": "Sri Kustiana"
+  },
+  {
+    "party": "PAN",
+    "area": "Sumsel 2",
+    "number": 530,
+    "name": "Hanna Gayatri"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sumsel 2",
+    "number": 531,
+    "name": "Yulian Gunhar"
+  },
+  {
+    "party": "PKB",
+    "area": "Sumsel 2",
+    "number": 532,
+    "name": "Bertu Merlas"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sumut 1",
+    "number": 533,
+    "name": "Abdul Wahab D"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sumut 1",
+    "number": 534,
+    "name": "Muhammad  Romo Safi'i"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sumut 1",
+    "number": 535,
+    "name": "Meutya Hafid"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sumut 1",
+    "number": 536,
+    "name": "Prananda Surya Paloh"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sumut 1",
+    "number": 537,
+    "name": "Tengku Erry Nuradi"
+  },
+  {
+    "party": "PAN",
+    "area": "Sumut 1",
+    "number": 538,
+    "name": "Mulfachri Harahap"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sumut 1",
+    "number": 539,
+    "name": "Sofyan Tan"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sumut 1",
+    "number": 540,
+    "name": "Yasonna H Laoly"
+  },
+  {
+    "party": "PKS",
+    "area": "Sumut 1",
+    "number": 541,
+    "name": "Tifatul Sembiring"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sumut 2",
+    "number": 542,
+    "name": "Jhonny Allen Marbun"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sumut 2",
+    "number": 543,
+    "name": "Gus Irawan Pasaribu"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sumut 2",
+    "number": 544,
+    "name": "Lamhot Sinaga"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sumut 2",
+    "number": 545,
+    "name": "Delia Pratiwi Sitepu"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sumut 2",
+    "number": 546,
+    "name": "Delmeria Sikumbang"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sumut 2",
+    "number": 547,
+    "name": "Martin Manurung"
+  },
+  {
+    "party": "PAN",
+    "area": "Sumut 2",
+    "number": 548,
+    "name": "Saleh P Daulay"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sumut 2",
+    "number": 549,
+    "name": "Sihar Sitorus"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sumut 2",
+    "number": 550,
+    "name": "Trimedya Panjaitan"
+  },
+  {
+    "party": "PKB",
+    "area": "Sumut 2",
+    "number": 551,
+    "name": "Marwan Dasopnag"
+  },
+  {
+    "party": "PKS",
+    "area": "Sumut 2",
+    "number": 552,
+    "name": "Iskan Qolba Lubis"
+  },
+  {
+    "party": "Demokrat",
+    "area": "Sumut 3",
+    "number": 553,
+    "name": "Hinca Panjaitan"
+  },
+  {
+    "party": "Gerindra",
+    "area": "Sumut 3",
+    "number": 554,
+    "name": "Djohar Arifin Husein"
+  },
+  {
+    "party": "Golkar",
+    "area": "Sumut 3",
+    "number": 555,
+    "name": "Ahmad Doli Kurnia"
+  },
+  {
+    "party": "Nasdem",
+    "area": "Sumut 3",
+    "number": 556,
+    "name": "Rudi Hartono Bangun"
+  },
+  {
+    "party": "PAN",
+    "area": "Sumut 3",
+    "number": 557,
+    "name": "Nasril Bahar"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sumut 3",
+    "number": 558,
+    "name": "Djarot Saiful Hidayat"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sumut 3",
+    "number": 559,
+    "name": "Junimart Girsang"
+  },
+  {
+    "party": "PDIP",
+    "area": "Sumut 3",
+    "number": 560,
+    "name": "Bob AM Sitepu"
+  },
+  {
+    "party": "PKS",
+    "area": "Sumut 3",
+    "number": 561,
+    "name": "Anshory Siregar"
+  }
+]
